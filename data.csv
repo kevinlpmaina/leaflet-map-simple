@@ -1,4 +1,192 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Window,AGRI/ REACT,Company,Country,Town,Description,Lat,Lng
+TZAW,AGRI,A to Z Textile Mills Ltd.,Tanzania,Arusha,,-3.3869254,36.6829927
+AAW,AGRI,AACE Food Processing and Distribution,Nigeria,Sango-Ota,"A local food processing company sourcing, processing and marketing high quality spices, sauces and nutritious food products to both commercial and retail customers.",6.7119056,3.2533339
+ZIM,AGRI,ABSTCM,Zimbabwe,,,,
+TZAW,AGRI,Africado Ltd,Tanzania,Sanya Juu,,-3.186787,37.0708891
+ZIM,AGRI,African Century Financial Services Ltd,Zimbabwe,Harare,,-17.8251657,31.03351
+REACT,REACT,Africa Power Initiative,Uganda,Kampala,"A private limited company working to sustainably produce bio-diesel for East Africa with the aim of providing a clean, competitive and quality energy option while contributing to the creation of job opportunities, climate change mitigation and at the same time playing a role in the economic development efforts of Uganda.",0.3475964,32.5825197
+REACT,REACT,Afrisolar,Mozambique,,,,
+GW,AGRI,Afrivet Business Management,South Africa,Pretoria,,-25.7478676,28.2292712
+GW,AGRI,AGF Afrique,Mali,,,,
+RIB,AGRI,Agri-Protein Technologies (Pty) Ltd,South Africa,Stellenbosch,"As a leading nutrient recycling company, AgriProtein uses organic abattoir waste and fly larvae to create high quality, low cost protein for the mono‐gastric (chicken, fish and pig) animal feed industry.",-33.9321045,18.860152
+GW,AGRI,Agrobiotec,Burundi,Bujumbura,,-3.361378,29.3598782
+REACT,REACT,Agro-Negocia para o Dezenvolvimento Mocambique Lda,Mozambique,Pemba,"A local affiliate of Nippon Bio-diesel Fuel Company (NBF), a Japanese enterprise that promotes the shift from exploitation and use of fossil fuels to clean and sustainable energy. The AECF - ADM’s project seeks to plant Jatropha curcas, produce and process seeds into bio-fuel and bio-fertilizer to fulfill the local demand for energy while reducing overreliance on fossil fuels. The company aims to reduce the price gap of fuel between cities and rural areas, while improving the accessibility of rural households to fuels and bio-fertilizers.",-5.0319352,39.7755571
+REACT,REACT,Amarula Farms ltd,Mozambique,Nacala,"An integrated agriculture production company, involved in aggregation of agricultural produce in Mozambique. The AECF - Amarula Farms project seeks to establish a research centre to help the local population with seeds for their farming needs and also to test local water and soil and equip participating rural farmers with better agricultural practices.",-14.5656065,40.6854309
+ZIM,AGRI,Ariston Management Services (Private) Limited,Zimbabwe,Honde Valley,,-18.4715988,32.8761309
+REACT,REACT,Azuri Technologies,Kenya,,,,
+PCW,AGRI,Balmed Holding Ltd,Sierra Leone,Kissy,,8.4712279,-13.1870122
+AAW,AGRI,Barry Callebaut AG,Ivory Coast,ABIDJAN,,5.3599517,-4.0082563
+GW,AGRI,Barudi SA,Burundi,Bujumbura,,-3.361378,29.3598782
+ZIM,AGRI,B'Ayoba (Pvt) Ltd,Zimbabwe,Chipinge,"The first dedicated baobab production company that processes and markets it in Zimbabwe. It operats as a joint venture between two highly experienced companies, Organic Africa and Bio-Commerce Zimbabwe. The company is introducing a set of new, high-throughput processing technologies that will dramatically increase productivity, improve quality, reduce costs and lower the price of the final products to the end consumers.",-20.1914261,32.6333973
+REACT,REACT,BBOXX Ltd,Kenya,,,,
+GW,AGRI,Bennimix Food company,Sierra Leone,Free Town,"The only company that manufatures complementary baby food in Sierra Leone, and uses ingredients used sourced domestically from farmers in Sierra Leone. The company is improving, expanding and developing its smallholder supply chain who produce legumes required for the making of baby foods.",8.4656765,-13.2317225
+REACT,REACT,Bioenergy Systems Suppliers (Kenya) Limited,Kenya,Nairobi,,-1.2920659,36.8219462
+GW,AGRI,Biolands International Limited,Sierra Leone,,,,
+RIB,AGRI,BLGG Kenya,Kenya,Nairobi,,-1.2920659,36.8219462
+RIB,AGRI,Brentec Investments Ltd,Uganda,Kampala,,0.3475964,32.5825197
+ZIM,AGRI,Bulawayo Abbattoirs,Zimbabwe,Bulawayo,"The company is commercialising the value chain for goats for small holder farmers in rural Matabeleland, by constructing collection buying points in rural areas, arranging transportation of goats to the abattoir in Bulawayo and leveraging off existing sales and distribution networks in Zimbabwe.",-20.1325066,28.626479
+PCW,AGRI,Bulsho TV Media Network,Somalia,sa,,23.885942,45.079162
+REACT,REACT,Bunge Limited,Mozambique,Angonia,,-14.6720771,34.2421597
+RIB,AGRI,BusinessMinds BV,Uganda,Jinga,,24.00242,85.5032832
+AAW,AGRI,C. Dorman Ltd,Rwanda,Kigali,,-1.9705786,30.1044288
+ZIM,AGRI,CABS,Zimbabwe,Harare,,-17.8251657,31.03351
+PCW,AGRI,Capitol Foods Ltd,Sierra Leone,Free Town,"The company has established a fruit juice factory to become the market leader in processed natural fruit products for local and regional markets, while increasing the capacity and incomes of farmers supplying fruits to the plant",8.4656765,-13.2317225
+REACT,REACT,Carbon Africa M Ltd,Mozambique,Maputo,"A subsidiary of Carbon Africa Limited, a climate finance advisory and project development company, that seeks to produce high quality, certified compost in Mozambique by establishing a waste management and recycling initiative that are commercially viable. The project aims to reduce the amount of waste deposited at the final dumpsites as well as reduce the municipal waste management costs",-25.891968,32.6051351
+SSW,AGRI,Century Seed Co.Ltd,South Sudan,Yei,,4.0952713,30.6775054
+TZAW,AGRI,Chobo Investment Company Limited,Tanzania,Shinyanga,"A privately owned meat processing firm based in Mwanza aiming to acquire processing facilities in order to expand and modernise its existing operations with the objective of adding value to local livestock and create sustainable markets for rural farmers around the lake region keeping cattle, goats, sheep and pork.",-3.6809961,33.4271403
+RIB,AGRI,Cleanstar Mozambique,Mozambique,Maputo,,-25.891968,32.6051351
+ZIM,AGRI,Coopers Zimbabwe (1992) (Pvt) Ltd,Zimbabwe,Harare,,-17.8251657,31.03351
+AAW,AGRI,Copa Connect Ltd,Ghana,Sogakope,,5.9987998,0.5967369
+TZAW,AGRI,Coseke,Tanzania,,,,
+RIB,AGRI,Cross Frontier International Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+REACT,REACT,Cummins Cogeneration Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+AAW,AGRI,Curechem South Africa (Pty) Ltd,Mozambique,Chimoio,,-19.1054879,33.4607744
+GW,AGRI,DADTCO,Nigeria,,The company is introducing a new and innovative cassava processing system that can be done at the household level of the small scale farmer in Nigeria. The project enables the simple processing of cassava at a basic level and consequently replaces imports.,,
+TZAW,AGRI,Darsh Industries Limited,Tanzania,Arusha,,-3.3869254,36.6829927
+GW,AGRI,Dominion Farms Ltd,Kenya,Siaya,,-0.0998238,34.2747004
+SSW,AGRI,Dryland Seed Ltd,South Sudan,,,,
+AAW,AGRI,Dryland Seed Ltd.,Kenya,Machakos,,-1.5176837,37.2634146
+REACT,REACT,ea-power limited,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+PCW,AGRI,EcoPower Liberia,Liberia,,,,
+REACT,REACT,Ecosmart Energy Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+REACT,REACT,EGG Energy,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+PCW,AGRI,Esco Kivu S.P.R.L.,D.R. Congo,Beni,"Esco Kivu is a commodity exporting company that promotes cocoa production through provision of planting materials, farmer training, direct purchasing from farmers and facilitating organic and UTZ certification. With AECF support, will construct cocoa collection centres, a cocoa factory and a 300 metric tonne collaterally managed export warehouse facility to the benefit of thousands of cocoa farmers.",0.4990124,29.4527538
+AAW,AGRI,Esoko Networks Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+REACT,REACT,Everest Energy,Mozambique,Nampula,,-15.1266347,39.2687161
+RIB,AGRI,ExAgris Africa Limited,Malawi,Lilongwe,,-13.9626121,33.7741195
+ZIM,AGRI,Expert Decision Systems Zimbabwe (Pvt) Limited,Zimbabwe,Harare,,-17.8251657,31.03351
+GW,AGRI,Export Trading Company,Tanzania,,"The company owns and manages one of the most vertically integrated agriculture supply chains on the African subcontinent. With support from AECF - ETG seeks to add value to the pigeon pea sector through the introduction of a processing plant, promotion of improved cultivars and crop husbandry.",,
+RIB,AGRI,FAIM Africa Ltd,Rwanda,Kigali,,-1.9705786,30.1044288
+AAW,AGRI,Farm Support Limited,Uganda,Kampala,,0.3475964,32.5825197
+AAW,AGRI,Farmarama,Zambia,Lusaka,,-15.3875259,28.3228165
+REACT,REACT,Fenix International Inc.,Uganda,Kampala,,0.3475964,32.5825197
+REACT,REACT,Field Masters Ltd,Tanzania,Arusha,,-3.3869254,36.6829927
+REACT,REACT,Fortune CP Ltd,Mozambique,Domue,,-14.5295463,34.0836297
+PCW,AGRI,Freshco Kenya Ltd,D.R. Congo,,"A seed company involved in producing, processing and distributing high quality seeds and planting materials to the farming community in Kenya and the East and Central Africa region at large. With support from AECF the company seeks to establish a central nursery and other auxiliary nurseries to produce high quality, high yield grafted seedlings, transfer knowledge & technologies and to catalyse the process of outreach and adoption of macadamia nut technologies in DRC.",,
+SSW,AGRI,Frontier Microfinance Ltd,South Sudan,Torit,,4.4102396,32.5740376
+REACT,REACT,FuturEnergy,Kenya,,,,
+SSW,AGRI,Garden of Eden Co. Ltd,South Sudan,Juba,"A company incorporated in South Sudan that aims to establish a maize mill to service the Central Equatorial State of the Republic of South Sudan. The company will produce maize on its farms and also buy from smallholder farmers, process, package and take the finished products to market.",4.859363,31.57125
+REACT,REACT,Gesto Energia,Mozambique,Tchumene,,-25.8796918,32.4326753
+REACT,REACT,Global Supply Solutions Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+PCW,AGRI,Goldtree (SL) Ltd,Sierra Leone,Kailahun,,8.2802196,-10.5718086
+GW,AGRI,Gourmet Gardens,DRC,Kivu North,,-0.7917729,29.0459927
+TZAW,AGRI,Greenbelt Fertiliser Ltd,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+GW,AGRI,Guinness Cameroon ASA,Cameroon,Douala,,4.0510564,9.7678687
+PCW,AGRI,Habo fish andTuna Canning Factory,Somalia,Alula-Bari,"A tuna canning company that sources its fish from local fishermen fishing in the Gulf of Aden. With support from AECF, the company will add sardines to its canning line to allow it to operate the whole year. This will involve an increase in capacity; electricity supply, processing space, jetty extensions, purchase of a slurry ice machinery and growing the workforce",11.9650051,50.7553059
+SSW,AGRI,Honey Care Africa Ltd,South Sudan,,,,
+PCW,AGRI,"Huilerie - Plantations - Élevages du Kwilu-Kwango, sprl",D.R. Congo,Kwilu,,-5.1188825,18.4276047
+REACT,REACT,Husk Power Systems,Tanzania,,,,
+ZIM,AGRI,IETC Zimbabwe (Pvt) Ltd,Zimbabwe,Newlands,An agricultural firm based in Zimbabwe building soya bean processing facility that will source from smallholder farmers in an establihed outgrower scheme to produce Tasty Soya Pieces – TSP.,-33.9789129,18.4483763
+GW,AGRI,Illovo Sugar,Malawi,Limbe,,4.0224656,9.1954432
+TZAW,AGRI,International Tanfeeds Ltd,Tanzania,Morogoro,-6.8277556,-6.8277556,37.6591144
+REACT,REACT,Inyenyeri - A Rwandan Social Benefit Company,Rwanda,Kigali,-1.9705786,-1.9705786,30.1044288
+PCW,AGRI,"Kaah Express Financial Services, Inc.",Somalia,Puntland,9.7865881,9.7865881,49.3653149
+ZIM,AGRI,KAITE pvt. ltd,Zimbabwe,Harare,-17.8251657,-17.8251657,31.03351
+ZIM,AGRI,Kencor Management Services (Pvt) Ltd,Zimbabwe,Harare,-17.8251657,-17.8251657,31.03351
+GW,AGRI,Kenya Biologics Ltd,Kenya,Thika,-1.0387569,-1.0387569,37.0833753
+AAW,AGRI,Kenya Highland Seed Co. Ltd,Kenya,Kitengela,-1.4752891,-1.4752891,36.9620104
+ZIM,AGRI,Kettex (Pvt) Ltd,Zimbabwe,Harare,-17.8251657,-17.8251657,31.03351
+REACT,REACT,KGN Bio-Fuels Private Ltd,Kenya,Narobi,-1.2920659,-1.2920659,36.8219462
+AAW,AGRI,Kigali Farms,Rwanda,Byumba,,-1.5791079,30.0694123
+TZAW,AGRI,Kilimo Markets,Tanzania,Shinyanga,,-3.6809961,33.4271403
+TZAW,AGRI,Kilombero Plantations Ltd,Tanzania,Masaki,,33.7874398,132.7113752
+AAW,AGRI,Kisima Farm Limited,Kenya,Timau,,46.5837903,13.0039598
+REACT,REACT,Kiwia & Laustsen Limited,Tanzania,Karatu,,-3.3454038,35.6696802
+RIB,AGRI,Klein Karoo,South Africa,Oudtshoorn,,-33.6007225,22.2026347
+ZIM,AGRI,KM Financial Solutions,Zimbabwe,Harare,,-17.8251657,31.03351
+REACT,REACT,La Terre Ltd.,Kenya,Naivasha,,-0.7171778,36.4310251
+GW,AGRI,Lachlan Kenya Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+PCW,AGRI,LAYUKA S.P.R.L.,D.R. Congo,Madimba,A privately owned agri-business company based in the Democratic Republic of Congo seeking to exploit the huge potential of cassava as a food crop. Layuka provides training to trainers and establishing practical fields.,-4.9846384,15.133205
+RIB,AGRI,Leldet Ltd,Kenya,Nakuru,,-0.3030988,36.080026
+PCW,AGRI,Liberia Cocoa Corporation,Liberia,Lofa,,8.1911184,-9.7232673
+ZIM,AGRI,Makera Cattle Company,Zimbabwe,Harare,,-17.8251657,31.03351
+ZIM,AGRI,Maraja Investments (former Paperhole),Zimbabwe,Harare,,-17.8251657,31.03351
+TZAW,AGRI,Masasi High Quality Farmers Products,Tanzania,Masasi,,-10.7323902,38.8100855
+TZAW,AGRI,Meat King Distributors Ltd,Tanzania,Moshono,"A subsidiary of Meat King Limited (MK), established to build and operate a large modern Meat Processing Plant and Slaughtering Facility in Moshono, Arusha. With support from AECF, the company aims to meet the growing demand for high quality meat in Tanzania - beef, pork, lamb, chicken and fish.",-3.3857758,36.7096889
+AAW,AGRI,Mekelle Farms,Ethiopia,Mekelle,,13.4935504,39.465738
+PCW,AGRI,MicroDahab Limited,Somalia,,,,
+REACT,REACT,Microenergy Credits,Uganda,,,,
+TZAW,AGRI,Misenani Agri Services Ltd,Tanzania,Mwanza,,-2.5164305,32.9174517
+REACT,REACT,M-kopa,Kenya,Nairobi,,-1.2920659,36.8219462
+AAW,AGRI,MM (Operations) Limited,Malawi,Salima,,53.5593135,9.8834028
+REACT,REACT,Mobisol GmbH,Tanzania,Arusha,,-3.3869254,36.6829927
+GW,AGRI,Money Box Africa,Nigeria,Lagos,,6.5243793,3.3792057
+GW,AGRI,Monitise Plc,Nigeria,,,,
+ZIM,AGRI,Montana Meats (Pvt) Ltd,Zimbabwe,Harare,"A company that purchases cattle throughout Zimbabwe both for immediate slaughter and for feeding before slaughter. With support from AECF the company facilitates and administers a feeder scheme to empower farmers, train and educate them on animal husbandry to ensure consistent supply of meat",-17.8251657,31.03351
+REACT,REACT,Mosagri Lda,Mozambique,Lumbo,"The company is a Mozambique Sustainable Agribusiness, focusing on efficient agricultural production in order to produce high yielding crops and to sell the products to domestic, regional and international markets. With support from AECF company will establish an agro-village concept for exploitation of Moringa oleifera value chain; creating a tree nursery unit and commercial high density leaf production within nucleus and out-grower schemes.",-15.0368144,40.6702118
+AAW,AGRI,Mount Kenya Gardens Ltd,Kenya,Meru,,49.236009,2.13544
+PCW,AGRI,Mountain Lion Agriculture (SL) Ltd,Sierra Leone,Free Town,,8.4656765,-13.2317225
+REACT,REACT,Mozambique BioFuel Industries Limitada,Mozambique,Mocuba Zambezia,The company aims to farm energy crops for ethanol production. With support from AECF the company seeks to produce ethanol from sweet sorghum and market it in Mozambique by establishing an ethanol distillation facility.,-16.8402212,36.9648534
+AAW,AGRI,"Mozambique Fresh Eggs, Lda",Mozambique,Nampula,,-15.1266347,39.2687161
+TZAW,AGRI,MSK Solutions Ltd,Tanzania,MWANZA,,-2.5164305,32.9174517
+TZAW,AGRI,Mtanga Farms Ltd,Tanzania,Dar Es Salaam,,-6.792354,39.2083284
+PCW,AGRI,Neo Trading Company,Somalia,HARGEISA,"An import-export trading company based in Hargeisa, Somaliland that imports gums, resins, Boswellia carterii, Commiphora myrrha and Commiphora guidetti. With support from AECF the company will establish an oil distillation plant.",9.562389,44.0770134
+AAW,AGRI,New Horizons Mozambique Limitada,Mozambique,Nampula,"A poultry product company incorporated in Mozambique, with support from AECF the company will expand te NHM feed mill, hatchery and abattoi to increase broiler chicken output and will work with hundreds of out-growers.",-15.1266347,39.2687161
+ZIM,AGRI,Northern Farming,Zimbabwe,Harare,,-17.8251657,31.03351
+RIB,AGRI,Notore Chemicals Industries Limited,Nigeria,PORT HARCOURT,,4.815554,7.0498442
+TZAW,AGRI,Nsagali Co. Ltd,Tanzania,BARIADI,,-2.8069614,33.9917222
+REACT,REACT,Nuru Energy,Rwanda,,,,
+ZIM,AGRI,Nutriveg Private Ltd,Zimbabwe,Harare,,-17.8251657,31.03351
+REACT,REACT,Off Grid Electric Tanzania Limited,Tanzania,Arusha,,-3.3869254,36.6829927
+GW,AGRI,Olam Nigeria,Nigeria,Lagos,,6.5243793,3.3792057
+PCW,AGRI,Pajah & I.J (SL) Ltd,Sierra Leone,Lumley,,43.392116,-81.413245
+ZIM,AGRI,Peak Trading,Zimbabwe,Harare,,-17.8251657,31.03351
+RIB,AGRI,Phoenix Limitada,Mozambique,Chimoio,,-19.1054879,33.4607744
+ZIM,AGRI,Pinnker Enterprises (Pvt) Ltd T/A Farrell Furniture,Zimbabwe,Borrowdale,,54.502812,-3.1485782
+REACT,REACT,PlaNet Guarantee,Kenya,,,,
+ZIM,AGRI,PM Manufacturing Pvt Ltd,Zimbabwe,Ardbennie,,-17.8768372,31.0249093
+ZIM,AGRI,Produtrade Pvt Ltd,Zimbabwe,Harare,,-17.8251657,31.03351
+GW,AGRI,Progene Seeds,Zimbabwe,Harare,,-17.8251657,31.03351
+GW,AGRI,Quality foods,Tanzania,Arusha,,-3.3869254,36.6829927
+GW,AGRI,Real IPM,Kenya,Thika,,-1.0387569,37.0833753
+AAW,AGRI,Reliance Financial Services Gambia Limited,Gambia,Banjul,,13.4548761,-16.5790323
+AAW,AGRI,Rent-to-Own Zambia Limited,Zambia,Lusaka,,-15.3875259,28.3228165
+GW,AGRI,Rift Valley Products,Kenya,Nakuru,,-0.3030988,36.080026
+REACT,REACT,RIWIK Wind Energy B.V,Kenya,Nairobi,,-1.2920659,36.8219462
+TZAW,AGRI,Ruaha Farms Limited,Tanzania,Iringa,,-7.768059,35.6860723
+RIB,AGRI,Rugombo Agro-industrial Complex,Burundi,Rugombo,,-2.816484,29.0794468
+GW,AGRI,Rungwe Avocado Co. Ltd,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+ZIM,AGRI,Sable Park Enterprises,Zimbabwe,Chegutu,"The company is located near the central town of Chegutu in Zimbabwe, and consists of two distinct operational units: a poultry Growing Section and a poultry Abattoir. With support from AECF teh company seeks to upgrade the SPE’s poultry processing capacity as well as increasing its growing section to ensure continuity through the improved abattoir.",-18.1380146,30.147383
+GW,AGRI,SABMiller Plc,South Sudan,Juba,,4.859363,31.57125
+AAW,AGRI,Sahel Grains,Ghana,Techiman,"The company is a high capacity, high-quality, post-harvest grain handling service in Ghana. With support from AECF the company seeks to increase its working & storage capacitity and developing a new business line to produce corn and cassava dough for sale on the local market and eventually for cross border trading",7.5908801,-1.9343555
+REACT,REACT,Sandali Wood Industries Limited,Tanzania,Tanga,,-5.0888751,39.1023228
+TZAW,AGRI,Sao Hill Agriculture,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+TZAW,AGRI,Seed Co Tanzania Limited,Tanzania,Arusha,,-3.3869254,36.6829927
+TZAW,AGRI,Serengeti Fresh Ltd,Tanzania,Arusha,,-3.3869254,36.6829927
+REACT,REACT,Signature Energy Ventures Limited,Mozambique,Maputo,,-25.891968,32.6051351
+REACT,REACT,SimGas BV,Tanzania,Dar es Salaam,,-6.792354,39.2083284
+AAW,AGRI,Smart Logistics Solutions,Kenya,Machakos,,-1.5176837,37.2634146
+TZAW,AGRI,SmartMoney Tanzania Limited,Tanzania,Mwanza,,-2.5164305,32.9174517
+REACT,REACT,Sodea SARL,Burundi,Bujumbura,,-3.361378,29.3598782
+REACT,REACT,SolarNow BV,uganda,,,,
+PCW,AGRI,Somaliland Beverage Industries,Somalia,Hargeisa,,9.562389,44.0770134
+ZIM,AGRI,Sondelani Ranching,Zimbabwe,Bulawayo,,-20.1325066,28.626479
+SSW,AGRI,South Farmers Company Ltd,South Sudan,Kajo Keji,,3.8550654,31.656829
+ZIM,AGRI,Southcote Estates Pvt Ltd,Zimbabwe,Kariba,,-16.9556508,27.9717606
+GW,AGRI,Splash Mobile Money Limited,Sierra Leone,Free Town,,8.4656765,-13.2317225
+RIB,AGRI,Stokman Rozen Kenya Limited,Kenya,Naivasha,,-0.7171778,36.4310251
+REACT,REACT,Suma Hydro,Tanzania,,,,
+AAW,AGRI,Sunshine Agro Products,Uganda,Soroti,,1.7131812,33.6063855
+REACT,REACT,Suntransfer Kenya Investment Ltd,kenya,Nairobi,,-1.2920659,36.8219462
+RIB,AGRI,Super Sires Genetics Ltd,Kenya,Eldoret,,0.5142775,35.2697802
+GW,AGRI,Sybase-Mobicom,Zimbabwe,,,,
+ZIM,AGRI,TA Holdings Limited,Zimbabwe,Harare,,-17.8251657,31.03351
+GW,AGRI,Tanga Fresh Limited,Tanzania,Tanga,,-5.0888751,39.1023228
+PCW,AGRI,Tawakal Livestock Company,Somalia,Hargeisa,,9.562389,44.0770134
+REACT,REACT,Teita Estate Limited,Kenya,Nairobi,,-1.2920659,36.8219462
+ZIM,AGRI,Tetrad E-Mali (Pvt) Ltd,Zimbabwe,Harare,,-17.8251657,31.03351
+RIB,AGRI,The Mediae Company Ltd,Kenya,Nairobi,,-1.2920659,36.8219462
+RIB,AGRI,Toguna Agro Industries,Mali,Bamako,,12.6392316,-8.0028892
+REACT,REACT,ToughStuff International,Kenya,,,,
+ZIM,AGRI,Trandorm Enterprises,Zimbabwe,Chisipite,,-17.7953731,31.1280781
+REACT,REACT,Treedom Srl-Let's Green the Planet,Kenya,,,,
+REACT,REACT,Tsoni Farms Ltd,Mozambique,Beira,,-19.7963816,34.8844867
+TZAW,AGRI,Uncle Milo Sunflower Oil Company,Tanzania,Dodoma,,-6.162959,35.7516069
+ZIM,AGRI,Untu Microfinance (Private) Limited,Zimbabwe,Harare,,-17.8251657,31.03351
+TZAW,AGRI,Verbruggen Juice Trading BV,Tanzania,Muheza,,-4.9281176,38.904164
+PCW,AGRI,Veterinary Service Provider Professional Company - VetCare,Somalia,Las'anod,,,
+GW,AGRI,Virtual City,Kenya,Nairobi,,,
+GW,AGRI,Western Seed,Kenya,Kitale,,,
+GW,AGRI,Yara international,Ghana,Accra,,,
+ZIM,AGRI,Yelo Egg (Pvt) Ltd,Zimbabwe,Harare,,,
+PCW,AGRI,Zamzam Food Industries,Somalia,Hargeisa,,,
